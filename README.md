@@ -7,6 +7,6 @@ This is a clone of the login page for Microsoft (outlook) accounts with its form
 - JavaScript
   
 
-REFERENCE TO Octagon-simon
-https://github.com/Octagon-simon/microsoft-login-clone/tree/main
-
+REFERENCES:
+Octagon-simon - https://github.com/Octagon-simon/microsoft-login-clone/tree/main
+Github - https://pages.github.com/
